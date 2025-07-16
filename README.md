@@ -43,7 +43,7 @@ I explore photography and write poetry to fuel my storytelling and design perspe
 
 > 🧩 Explore my work, creativity, and AI designs
  
-👉 [https://jaichaudhari08.framer.ai/](https://jaichaudhari08.framer.ai/)
+👉 Portfolio  --- https://jaichaudhari.framer.ai/
 
 
 ---
