@@ -30,9 +30,9 @@
 When I’m not coding, you’ll find me capturing quiet moments through a lens or pen.  
 I explore photography and write poetry to fuel my storytelling and design perspective.
 
-- 📸 [Instagram](https://www.instagram.com/jaichaudhari__/)  
-- 📌 [Pinterest](https://in.pinterest.com/jaychaudhari992141/_profile/_created/)  
-- ✍️ [Twitter / X](https://x.com/Jayc0008)
+-    [Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)(https://www.instagram.com/jaichaudhari__/)  
+-    [Pinterest](https://img.shields.io/badge/Pinterest-%23BD081C.svg?logo=pinterest&logoColor=white)(https://in.pinterest.com/jaychaudhari992141/_profile/_created/)  
+-    [Twitter / X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)(https://x.com/Jayc0008)
 -    [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/jayc0808)  
  
 
