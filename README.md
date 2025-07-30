@@ -1,16 +1,15 @@
  Hola, I'm Jay Chaudhari
 
-🎓 Computer Science Student   
-🤖 Aspiring AI Engineer focused on Prompt Engineering, LLMs & Automation  
-🎨 Passionate about AI-powered design tools, creativity, and productivity  
-📷 Capturing life through photography & expressing it through poetry
+🎓 Computer Engineer   
+   Passionate about AI-powered design tools, creativity, and productivity  
+  
 
 ---
 
 🚀 Tech Stack
 
 - 🧠 **AI/ML**: Prompt Engineering, OpenAI API, LangChain, Ollama, LLMs
-- 🐍 **Programming**: Python, SQL, HTML/CSS, Streamlit
+- 🐍 **Programming**: Python, SQL, 
 - 🎨 **Design & UI/UX**: Figma, Canva, Runway ML, Framer
 - 📊 **Data Tools**: Power BI, SQLite, REST APIs
 - 🛠️ **Dev Tools**: Git, GitHub, VS Code, Postman
@@ -34,18 +33,15 @@ I explore photography and write poetry to fuel my storytelling and design perspe
 - 📸 [Instagram](https://www.instagram.com/jaichaudhari__/)  
 - 📌 [Pinterest](https://in.pinterest.com/jaychaudhari992141/_profile/_created/)  
 - ✍️ [Twitter / X](https://x.com/Jayc0008)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/jayc0808)  
-- [![GitHub](https://img.shields.io/badge/GitHub-grey?style=flat&logo=github)](https://github.com/jackc000)  
+-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/jayc0808)  
+ 
 
 ---
 
 🌐 Portfolio
 
-> 🧩 Explore my work, creativity, and AI designs
+> 🧩 Explore my creativity.
  
-👉 Portfolio  --- https://jaichaudhari.framer.ai/
+   Portfolio  --- https://jaichaudhari.framer.ai/
 
 
----
-
-> **“Code creatively. Build boldly. Share beautifully.”** 🔥
