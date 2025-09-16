@@ -1,7 +1,8 @@
  HEY, I'm JAY
 
 🎓 SOFTWARE ENGINEER   
-   Passionate about AI-powered design tools, creativity, and productivity  
+   AI Engineer crafting LLM-powered tools with purpose.
+   Exploring project-driven AI solutions while channeling creativity through graphic design, photography, and poetry  
   
 
 ---
@@ -27,24 +28,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,mysql,sqlite,git,github,figma,react,powershell,vscode&theme=dark" />
 </p>
-
 ---
-
- 💼 Featured Projects
-
-- [🎨 Creative Prompt Designer](https://github.com/jackc000/Creative-Prompt-Designer) – AI-powered prompt generation tool for artists  
-- [📅 AI Productivity Tracker](https://github.com/jackc000/ai-productivity-tracker) – Track tasks with an LLM-powered assistant  
-- [📰 NewsSniffer](https://github.com/jackc000/NewsSniffer) – Web scraper that extracts headlines from websites  
-- [🎯 Typing Speed Game](https://github.com/jackc000/typing-speed-game) – Fun game that tracks typing speed & accuracy
-
----
-
-🎨 Creative Side
-
-When I’m not coding, you’ll find me capturing quiet moments through a lens or pen.  
-I explore photography and write poetry to fuel my storytelling and design perspective.
-
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI-Generative%20AI-orange?style=for-the-badge&logo=openai&logoColor=white" />
@@ -54,11 +38,27 @@ I explore photography and write poetry to fuel my storytelling and design perspe
 
 ---
 
+ 💼 Featured Projects
+
+-  AI Poetry Creator -LLM-powered assistant 
+- [🎨 Creative Prompt Designer](https://github.com/jackc000/Creative-Prompt-Designer) – AI-powered prompt generation tool for artists  
+- [📅 AI Productivity Tracker](https://github.com/jackc000/ai-productivity-tracker) – Track tasks with an LLM-powered assistant  
+- [📰 NewsSniffer](https://github.com/jackc000/NewsSniffer) – Web scraper that extracts headlines from websites  
+- [🎯 Typing Speed Game](https://github.com/jackc000/typing-speed-game) – Fun game that tracks typing speed & accuracy
+
+---
+
+
+
 🌐 Portfolio
 
 > 🧩 Explore my creativity.
+ 👨‍💻 Portfolio  --- https://jaichaudhari.framer.ai/
+
+ When I’m not coding, you’ll find me capturing quiet moments through a lens or pen.  
+ I explore photography and write poetry to fuel my storytelling and design perspective.
  
-   - 👨‍💻 Portfolio  --- https://jaichaudhari.framer.ai/
+ 
 
 
 
