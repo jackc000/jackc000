@@ -7,8 +7,6 @@
 ---
 
 
----
-
 🚀 Tech Stack
 
 - 🧠 **AI/ML**: Prompt Engineering, OpenAI API, LangChain, Ollama, LLMs
@@ -16,6 +14,7 @@
 - 🎨 **Design & UI/UX**: Figma, Canva, Runway ML, Framer
 - 📊 **Data Tools**: Power BI, SQLite, REST APIs
 - 🛠️ **Dev Tools**: Git, GitHub, VS Code, Postman
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://x.com/jayc0008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/jayc0008" height="30" width="40" /></a>
@@ -59,8 +58,7 @@ I explore photography and write poetry to fuel my storytelling and design perspe
 
 > 🧩 Explore my creativity.
  
-   Portfolio  --- https://jaichaudhari.framer.ai/
-- 👨‍💻 All of my projects are available at [https://jaychaudhari.framer.ai/](https://jaychaudhari.framer.ai/)
+   - 👨‍💻 Portfolio  --- https://jaichaudhari.framer.ai/
 
 
 
