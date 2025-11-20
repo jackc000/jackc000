@@ -53,7 +53,7 @@
 🌐 Portfolio
 
 > 🧩 Explore my creativity.
- 👨‍💻 Portfolio  --- https://jaichaudhari.framer.ai/
+ 👨‍💻 Portfolio  --- [https://jaichaudhari.framer.ai/](https://jaychaudhari.framer.ai/)
 
  When I’m not coding, you’ll find me capturing quiet moments through a lens or pen.  
  I explore photography and write poetry to fuel my storytelling and design perspective.
